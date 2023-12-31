@@ -15,7 +15,7 @@
 }
 
 .header span{
-    color: #DE1B89;
+    color: #B9FF66;
     font-weight:600;
 }
 
@@ -63,14 +63,14 @@
     height: 85px;
     font-size: 20px;
     border-radius:50px;
-    background: #DE1B89;
+    background: #B9FF66;
     cursor: pointer;
 }
 
 .loading-bar{
     width: 0px;
     height: 8px;
-    background: #DE1B89;
+    background: #B9FF66;
 }
 
 .loading-text{
@@ -80,7 +80,7 @@
 .loading-bar-full{
     width:512px;
     height:8px;
-    background: #DE1B89;
+    background: #B9FF66;
     transition:15s;
 
 }
