@@ -1,4 +1,4 @@
-# GenerAIte
+# GenerAIte - Major League Hacking (web3apps 29 - 31 December)
 
 ## Inspiration
 The inspiration behind GenerAIte stems from the realization that accessing unique and customizable NFT art is often limited. Traditional platforms lack the diversity and personalization sought by digital art enthusiasts and collectors.
